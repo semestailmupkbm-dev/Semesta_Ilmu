@@ -1,0 +1,8 @@
+{
+  "name": "Remix SIM Rapor Merdeka",
+  "description": "Aplikasi web pengolahan nilai rapor siswa otomatis Kurikulum Merdeka dengan leger kelas, CP/TP per kelas, verifikasi guru \u0026 mapel, dan cetak laporan hasil belajar format PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
